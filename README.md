@@ -52,7 +52,9 @@ Revisa la carpeta para asegurarte de que los archivos procesados se han generado
 - Las reservas que tienen un tarifa baja, ¿tienen un riesgo menor de cancelación?.
 
 
-**3. Visualización de Datos:** Proporcionar visualizaciones claras y comprensibles para facilitar la toma de decisiones informadas con gestionar las cancelaciones.
+## **FASE 3: Visualización Resultados**
+
+**Visualización de Datos:** Proporcionar visualizaciones claras y comprensibles para facilitar la toma de decisiones informadas con gestionar las cancelaciones.
 
 Para ver el dashboard de las cancelaciones del hotel, ejecutar en Power BI el archivo **cancelaciones_hoteles.pbix**
 
