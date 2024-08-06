@@ -7,7 +7,7 @@ Proyecto de análisis y optimización de las cancelaciones de las reservas de un
 
 La cadena hotelera ha notado un aumento en el número de cancelaciones de sus reservas en los últimos meses y nos ha encargado realizar un análisis preliminar para comprender las causas y patrones que se esconden tras esas cancelaciones, con tal de que la gerencia del hotel pueda identificar áreas de mejora y tomar decisiones informadas para reducir la tasa de cancelación.
 
-[imagen_portada](portada.png)
+[portada](portada.png)
 
 ## **FASE 1: Exploración, Limpieza y Transformación el Conjunto de Datos**
 Se ha automatizado la primera fase de exploración, transformación y limpieza de datos.
